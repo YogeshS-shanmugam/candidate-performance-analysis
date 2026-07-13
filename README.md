@@ -2,6 +2,10 @@
 
 A Python and Streamlit-based web application that analyzes candidate performance and provides useful recommendations.
 
+## 🌐 Live Demo
+
+[Click here to open the Candidate Performance Analysis App](https://candidate-performance-analysis.streamlit.app/)
+
 ## Project Overview
 
 This project analyzes the performance of 100 candidates across different courses.
